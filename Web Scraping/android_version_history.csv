@@ -1,0 +1,34 @@
+Name,Internal codename,Version number(s),Initial stablerelease date,Supported(security fixes),Latest security patch[15](service life),Latest Google Play Services version[16](release date),API level,References
+Android 1.0,N/A,1.0,September 23- 2008,No,N/A,N/A,1,[9][17]
+Android 1.1,Petit Four,1.1,February 9- 2009,No,N/A,N/A,2,[9][17][18]
+Android Cupcake,Cupcake,1.5,April 27- 2009,No,N/A,N/A,3,[17][19]
+Android Donut,Donut,1.6,September 15- 2009,No,N/A,N/A,4,[17][20]
+Android Eclair,Eclair,2.0,October 27- 2009,No,N/A,N/A,5,[17][21][22]
+Android Eclair,Eclair,2.0.1,December 3- 2009,No,N/A,N/A,6,
+Android Eclair,Eclair,2.1,January 11- 2010,No,N/A,N/A,7,[23]
+Android Froyo,Froyo,2.2 – 2.2.3,May 20- 2010,No,N/A,3.2.25 (October 2014),8,[17][24]
+Android Gingerbread,Gingerbread,2.3 – 2.3.2,December 6- 2010,No,N/A,10.0.84 (November 2016),9,[17][25]
+Android Gingerbread,Gingerbread,2.3.3 – 2.3.7,February 9- 2011,No,N/A,10.0.84 (November 2016),10,
+Android Honeycomb,Honeycomb,3.0,February 22- 2011,No,N/A,10.0.84 (November 2016),11,[17][26]
+Android Honeycomb,Honeycomb,3.1,May 10- 2011,No,N/A,10.0.84 (November 2016),12,
+Android Honeycomb,Honeycomb,3.2 – 3.2.6,July 15- 2011,No,N/A,10.0.84 (November 2016),13,
+Android Ice Cream Sandwich,Ice Cream Sandwich,4.0 – 4.0.2,October 18- 2011,No,N/A,14.8.49 (February 2019),14,[17][27]
+Android Ice Cream Sandwich,Ice Cream Sandwich,4.0.3 – 4.0.4,December 16- 2011,No,N/A,14.8.49 (February 2019),15,
+Android Jelly Bean,Jelly Bean,4.1 – 4.1.2,July 9- 2012,No,N/A,21.33.56 (September 2021),16,[17][28]
+Android Jelly Bean,Jelly Bean,4.2 – 4.2.2,November 13- 2012,No,N/A,21.33.56 (September 2021),17,
+Android Jelly Bean,Jelly Bean,4.3 – 4.3.1,July 24- 2013,No,N/A,21.33.56 (September 2021),18,
+Android KitKat,Key Lime Pie,4.4 – 4.4.4,October 31- 2013,No,October 2017 (48 months),22.06.15 (March 2022),19,[17][29]
+Android KitKat,Key Lime Pie,4.4W – 4.4W.2,June 25- 2014,No,?,22.06.15 (March 2022),20,
+Android Lollipop,Lemon Meringue Pie,5.0 – 5.0.2,November 4- 2014,No,November 2017 (36 months),22.06.15 (March 2022),21,[17][30][31]
+Android Lollipop,Lemon Meringue Pie,5.1 – 5.1.1,March 2- 2015,No,March 2018 (36 months),22.06.15 (March 2022),22,[32]
+Android Marshmallow,Macadamia Nut Cookie,6.0 – 6.0.1,October 2- 2015,No,August 2018 (34 months),22.06.15 (March 2022),23,[17][33][34]
+Android Nougat,New York Cheesecake,7.0,August 22- 2016,No,August 2019 (36 months),22.06.15 (March 2022),24,[17][35][36][37][38]
+Android Nougat,New York Cheesecake,7.1 – 7.1.2,October 4- 2016,No,October 2019 (36 months),22.06.15 (March 2022),25,
+Android Oreo,Oatmeal Cookie,8.0,August 21- 2017,No,January 2021 (41 months),22.06.15 (March 2022),26,[17][39][40]
+Android Oreo,Oatmeal Cookie,8.1,December 5- 2017,No,October 2021 (46 months),22.06.15 (March 2022),27,[17][41]
+Android Pie,Pistachio Ice Cream,9,August 6- 2018,No,January 2022 (41 months),22.06.15 (March 2022),28,[17][42][43]
+Android 10,Quince Tart,10,September 3- 2019,Yes,March 2022 (30+ months),22.06.15 (March 2022),29,[17][44][45][46]
+Android 11,Red Velvet Cake,11,September 8- 2020,Yes,March 2022 (30+ months),22.06.15 (March 2022),30,[17][47]
+Android 12,Snow Cone,12,October 4- 2021,Yes,March 2022 (30+ months),22.06.15 (March 2022),31,[17][48][49]
+Android 12L,Snow Cone v2,12,March 7- 2022,Yes,March 2022 (30+ months),22.06.15 (March 2022),32,[50][51][52][53]
+Android 13,Tiramisu,13,Q3 2022,Presupported,N/A,22.06.15 (March 2022),33,[54]
